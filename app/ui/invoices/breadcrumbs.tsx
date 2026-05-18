@@ -1,6 +1,5 @@
 import { clsx } from 'clsx';
 import Link from 'next/link';
-// @ts-expect-error
 import { lusitana } from '@/app/ui/fonts';
 
 interface Breadcrumb {
